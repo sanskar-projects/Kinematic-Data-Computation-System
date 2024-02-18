@@ -40,5 +40,3 @@ data has been backed up to data.txt file
 </p>
 <hr>
 <img src="vBYt.png">
-
-</body>
