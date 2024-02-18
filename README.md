@@ -1,4 +1,4 @@
-<p style=color:red;>Kinematic Data Computation System</p>
+Kinematic Data Computation System
 
 A Java program to utilise initial data and compute the values of basic kinematic quantities for a moving body at regular intervals of time.<br>
 The data is backed up to a file named data.txt which is created(If not exists) automatically upon termination.<br>
