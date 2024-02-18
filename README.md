@@ -1,42 +1,5 @@
-<! DOCTYPE html>
-<html>
-<head>
-
-<link rel="stylesheet" href="pysda.css">
-
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
-
-</head>
-
-<body>
-
-<p class="home">
-<a href="index.html">
-go to home
-</a>
-</p>
-   <br>
-    <br>
-    <br>
-    <br>
-    <br>
-<p>
 Kinematic Data Computation System
-</p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<hr>
-
-<p>
-Mission of the project
-</p>
-
-<p>
 A Java program to utilise initial data and compute the values of basic kinematic quantities for a moving body at regular intervals of time.<br>
 The data is backed up to a file named data.txt which is created(If not exists) automatically upon termination.<br>
 Initial data is obtained from the user which consists of following quantities in International System of Units,<br>
@@ -53,45 +16,4 @@ Acceleration is constant.<br>
 If speed is constant then acceleration has to be 0.<br>
 After acheiving it's maximum value speed becomes constant.<br>
 Low fuel warning is activated when fuel is less than 10 litres<br>
-Computation ceases when fuel is equal to or less than 0 L.<br>
-</p>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<hr>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<p>
-Case 1 : zero acceleration -> constant velocity
-</p>
-<hr>
-<img src="zero1.png">
-<hr>
-<img src="zero2.png">
-<hr>
-<img src="zero3.png">
-<hr>
-<p>
-case 2 : non zero acceleration -> velocity changes with respect to time
-</p>
-<hr>
-<img src="non1.png">
-<hr>
-<img src="non2.png">
-<hr>
-<p>
-data has been backed up to data.txt file
-</p>
-<hr>
-<img src="vBYt.png">
-
-</body>
+Computation ceases when fuel is equal to or less than 0 L.
