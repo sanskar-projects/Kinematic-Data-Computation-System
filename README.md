@@ -23,20 +23,20 @@ Case 1 : zero acceleration -> constant velocity
 <hr>
 <img src="output/zero1.png">
 <hr>
-<img src="zero2.png">
+<img src="output/zero2.png">
 <hr>
-<img src="zero3.png">
+<img src="output/zero3.png">
 <hr>
 <p>
 case 2 : non zero acceleration -> velocity changes with respect to time
 </p>
 <hr>
-<img src="non1.png">
+<img src="output/non1.png">
 <hr>
-<img src="non2.png">
+<img src="output/non2.png">
 <hr>
 <p>
 data has been backed up to data.txt file
 </p>
 <hr>
-<img src="vBYt.png">
+<img src="output/vBYt.png">
