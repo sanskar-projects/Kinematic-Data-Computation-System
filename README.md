@@ -21,7 +21,7 @@ Computation ceases when fuel is equal to or less than 0 L.<br>
 Case 1 : zero acceleration -> constant velocity
 </p>
 <hr>
-<img src="zero1.png">
+<img src="output/zero1.png">
 <hr>
 <img src="zero2.png">
 <hr>
